@@ -152,7 +152,7 @@
     <dependency>
       <groupId>org.aspectj</groupId>
       <artifactId>aspectjweaver</artifactId>
-      <version>1.9.6</version>
+      <version>1.9.9.1</version>
     </dependency>
     <!-- 校验框架结束-->
 
